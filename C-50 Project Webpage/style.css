@@ -1,0 +1,25 @@
+.intro{
+    
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: turquoise;
+
+}
+.tutorials{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.origami{
+
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: skyblue;
+
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
